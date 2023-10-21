@@ -1,0 +1,35 @@
+.footer{
+    margin-left : 41%;
+    font-size : 18px;
+    position: absolute;
+    bottom: 10px;
+  }
+  
+  .left{
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .class1, .class2 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    
+  }
+  
+  .image{
+    margin-right: 20px;
+    border-radius: 10px;
+    box-shadow: rgb(168, 168, 168) 0px 0px 7px;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  h1{
+    font-size: 40px;
+  }
+  
+  h5{
+    font-size: 20px;
+  }
+  
+  
